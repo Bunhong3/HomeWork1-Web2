@@ -706,6 +706,10 @@ video {
   max-width: 56rem;
 }
 
+.grow {
+  flex-grow: 1;
+}
+
 .list-inside {
   list-style-position: inside;
 }
